@@ -53,7 +53,7 @@ import datetime
 import pandas as pd
 
 # Titre de l'application
-st.title("🚖 Taxi Fare Prediction with Map 🗺")
+st.title("🚖 Taxi Fare Prediction")
 
 # ✅ 1️⃣ Formulaire pour entrer les données
 st.subheader("📍 Enter your ride details")
